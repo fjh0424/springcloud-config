@@ -1,1 +1,2 @@
-Test  modify  file  at  Github.
+config:
+  info: test-modify-config-file
