@@ -2,3 +2,5 @@ config:
   info: this-last-change-2021-06-17-point-announce
 add:
     info: add new info
+demo01:
+    add: demo01
